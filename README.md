@@ -5,7 +5,7 @@ ProGuard Clojure sample project.
 ## Usage
 Replace `<java.home>` in `proguard-example/conf.pro` with your java home path.
 
-**Run following command:**
+**Run following commands:**
 
 `cd /proguard-example`
 
