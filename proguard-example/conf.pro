@@ -24,8 +24,6 @@
 # What we will be doing is obfuscating, shrinking and optimizing the jar. 
 # If you experience any problems start out with obfuscation and add the 
 # -dontoptimize  and the -dontshrink flags and see if it works.
--dontoptimize
--dontshrink
 
 # Tell proguard to leave the clojure runtime alone
 # You would need to add any other classes that you wish to preserve here.
